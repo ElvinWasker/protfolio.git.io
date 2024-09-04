@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+}
+
+.left{
+    background-color:hsl(0, 0%, 22%);
+    width: 300px;
+    height: 700px;
+    border-radius: 20px;
+    margin: 40px;
+    border:5px solid hsl(0, 0%, 22%);
+   margin-top: 20px;
+   float: left;
+}
+
+.pfp{
+    width:200px;
+    height: 200px;
+    margin-left:45px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border: solid 1px rgb(10, 1, 1) ;
+    border-radius: 100px;
+}
+.pfp-caption-1{
+    color: rgb(186, 186, 186);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30pt;
+    margin: 0px;
+}
+.pfp-caption-2{
+    background-color: hsl(240, 1%, 17%);
+    height: 30px;
+    width: 108px;
+    margin-left: 90px;
+    margin-top: 5px;
+    color:rgb(186, 186, 186);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 7px;
+  padding-left:4px;
+    border-radius: 11px;
+}
+.line{
+    width: 260px;
+    border-color: rgb(195, 187, 187);
+    
+}
+.logos{
+    width: 40px;
+    margin-left: 10px;
+    float: left;
+}
+.media ul{
+    list-style-type: none;
+
+}
+.media .mail{
+    width: 40px;
+    margin-top:3px ;
+}
+.mail:hover{
+    width: 45px;
+}
+.media li{
+    float: left;
+    padding-left: 10px;
+}
+.media .yt{
+    width:45px;
+    margin: 0px;
+    
+}
+
+.yt:hover{
+    width: 50px;
+}
+.media .x:hover{
+    width: 43px;
+}
+.media .x{
+    width: 37px;
+    padding-top: 4px;
+}
+.insta{
+    width: 40px;
+    margin-top: 4px;
+}
+.insta:hover{
+    width: 45px;
+}
+
+.right nav ul{
+    list-style-type: none;
+    background-color:hsl(0, 0%, 22%);
+    width: 1000px;
+    height: 700px;
+    margin-left:0px;
+    margin-right: 70px;
+    margin-top:20px ;
+    margin-bottom: 0px;
+float: right;
+border-radius: 30px;
+}
+.right nav a{
+    text-decoration: none;
+    color:rgb(186, 186, 186);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    margin-left: 20px;
+    background-color: rgb(19, 16, 17);
+    padding: 15px;
+    border-radius: 11px;
+}
+.right nav li{
+    float: right;
+    padding-top: 20px;
+    margin-left: 1px;
+    margin-right: 22px;
+   
+}
+.right nav a:hover{
+    text-decoration: underline;
+}
